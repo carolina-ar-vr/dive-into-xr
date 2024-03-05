@@ -27,6 +27,8 @@ Please make sure to complete the following steps ***before* the workshop begins*
       - OpenJDK
       - Android SDK & NDK Tools
     * _Feel free to add additional modules, though we will only need the ones listed above for the purposes of building for Meta Quest platforms_.
+  <img width="1446" alt="Screenshot 2024-03-05 at 12 16 15 PM" src="https://github.com/carolina-ar-vr/dive-into-xr/assets/111532673/bc958eea-97ec-437c-b4bf-aab06d1c16fb">
+  <img width="1022" alt="image" src="https://github.com/carolina-ar-vr/dive-into-xr/assets/111532673/f7ebbbb1-1b41-4282-bf48-c9416a00251d">
 4. Make a new directory _(i.e. folder)_ called **Unity Projects** somewhere locally on your device where you can find it.
 
 ### Asset Setup
