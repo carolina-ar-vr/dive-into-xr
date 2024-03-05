@@ -34,7 +34,8 @@ Please make sure to complete the following steps ***before* the workshop begins*
 ### Asset Setup
 1. Download the following 3D models:
    - [Fish](add link)
-   - [Whale]()
+   - [Whale](https://github.com/carolina-ar-vr/dive-into-xr/blob/main/underwater-assets/whale.fbx)
+   - [Treasure Chest](https://github.com/carolina-ar-vr/dive-into-xr/blob/main/underwater-assets/treasure-chest.fbx)
    - [Seaweed](add link)
    - _Add other assets here!_
 2. Download the following image textures:
