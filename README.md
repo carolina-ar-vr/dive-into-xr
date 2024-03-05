@@ -31,7 +31,8 @@ Please make sure to complete the following steps ***before* the workshop begins*
 
 ### Asset Setup
 1. Download the following 3D models:
-   - _[Fish](add link)
+   - [Fish](add link)
+   - [Whale]()
    - [Seaweed](add link)
    - _Add other assets here!_
 2. Download the following image textures:
