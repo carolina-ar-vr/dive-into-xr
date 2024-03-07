@@ -1,5 +1,5 @@
 # [Dive into XR with Unity](https://www.canva.com/design/DAF9onXCYgw/9DLdK4ZBMWq_j3zfLWbuTA/view?utm_content=DAF9onXCYgw&utm_campaign=designshare&utm_medium=link&utm_source=editor)
-A Carolina AR/VR workshop that will enable you to build immersive experiences in Unity – created by Ashley Neall Arryn O'Brien.
+A Carolina AR/VR workshop that will enable you to build immersive experiences in Unity – created by Ashley Neall and Arryn O'Brien.
 
 ## An Introduction
 This workshop introduces students to extended reality (XR) development within Unity – a popular game engine used to develop mobile AR, VR, and MR experiences for various platforms. With Unity's powerful capabilities, the possibilities are endless for XR applications! Today, we will create an underwater VR experience in Unity, using the XR Interaction Toolkit (XRI) and Android Build Support module _(so that we can build this app for Meta Quest devices)_. We'll begin with a conceptual overview of how Unity works _(i.e. what it hides 'behind the scenes' for us as developers)_ and its user-interface. Then we'll import some pre-created underwater assets _(e.g. sound effects, 3D models, textures)_ and start developing! Since this workshop is only one hour long, **you _must_ ENTIRELY complete the pre-workshop setup below BEFORE THE WORKSHOP BEGINS**!
