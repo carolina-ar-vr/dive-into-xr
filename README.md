@@ -54,7 +54,7 @@ Since this workshop only lasts for an hour, this will help gauge what we will sp
    - Adding assets
    - C# Script + Components _(swarm fish movement)_
    - Particle Effects _(bubbles)_
-   - Testing _(more info about device emulator in Unity after the workshop)_
+   - Testing in Unity Editor _(more info about device emulator in Unity after the workshop)_
 3. Experience XR _(Quest 2, 3, and Pro)_– 10 minutes
    - USB connection to development devices -> **Build and Run**
    - Navigate to **Unknown Sources** on Meta Quest -> run .apk app
