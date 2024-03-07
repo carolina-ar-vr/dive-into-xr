@@ -13,8 +13,7 @@ Please make sure to complete the following steps ***before* the workshop begins*
 3. Follow the [**Asset Setup**](https://github.com/carolina-ar-vr/dive-into-xr/blob/main/README.md#asset-setup) below. 
 4. Watch this video on basics of XRI _(adding later)_
 5. (Optional) Watch this tutorial to [design haptic experiences with bHaptics](https://www.youtube.com/watch?v=Pyq9GHdchzc).
-6. (Optional) Watch this tutorial on bHaptics Unity SDK _(adding later)_
-7. (Optional) Watch this tutorial to [add spatial audio in Unity](https://www.youtube.com/watch?v=hNpNuDKSmgE&t=618s).
+6. (Optional) Watch this tutorial to [add spatial audio in Unity](https://www.youtube.com/watch?v=hNpNuDKSmgE&t=618s).
 8. Come to the workshop – prepared with your **laptop** (with **Unity** and your **XR Assets** already setup), a **mouse**, and your excitement!
 
 ### Unity Setup
