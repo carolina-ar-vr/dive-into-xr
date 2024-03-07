@@ -11,10 +11,9 @@ Please make sure to complete the following steps ***before* the workshop begins*
 1. Bookmark this repository (as you will be using its assets during _and_ after our workshop)!
 2. Follow the [**Unity Setup**](https://github.com/carolina-ar-vr/dive-into-xr/blob/main/README.md#unity-setup) below.
 3. Follow the [**Asset Setup**](https://github.com/carolina-ar-vr/dive-into-xr/blob/main/README.md#asset-setup) below. 
-4. Watch this video on basics of XRI _(adding later)_
-5. (Optional) Watch this tutorial to [design haptic experiences with bHaptics](https://www.youtube.com/watch?v=Pyq9GHdchzc).
-6. (Optional) Watch this tutorial to [add spatial audio in Unity](https://www.youtube.com/watch?v=hNpNuDKSmgE&t=618s).
-8. Come to the workshop – prepared with your **laptop** (with **Unity** and your **XR Assets** already setup), a **mouse**, and your excitement!
+4. (Optional) Watch this tutorial to [design haptic experiences with bHaptics](https://www.youtube.com/watch?v=Pyq9GHdchzc).
+5. (Optional) Watch this tutorial to [add spatial audio in Unity](https://www.youtube.com/watch?v=hNpNuDKSmgE&t=618s).
+6. Come to the workshop – prepared with your **laptop** (with **Unity** and your **XR Assets** already setup), a **mouse**, and your excitement!
 
 ### Unity Setup
 1. [Create a **Unity account**](https://id.unity.com/account/new). _Although it's not required, we also suggest activating a **free** [Student License](https://unity.com/products/unity-student), which basically gives you Unity Pro for free as a student!_
