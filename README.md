@@ -19,7 +19,7 @@ Please make sure to complete the following steps ***before* the workshop begins*
 1. [Create a **Unity account**](https://id.unity.com/account/new). _Although it's not required, we also suggest activating a **free** [Student License](https://unity.com/products/unity-student), which basically gives you Unity Pro for free as a student!_
 2. Download the [**Unity Hub**](https://unity.com/download); _this is the hub where you will be able to access your projects and install different modules_.
 3. Install the latest **Unity Editor** LTS version _(as of February 2024, we suggest version **2022.3.18f1**)_
-  a. When selecting the modules to install along with the Editor, make sure to also check off the following modules:
+   * When selecting the modules to install along with the Editor, make sure to also check off the following modules:
     * **Visual Studio** – _this is for your IDE, so that you can program interactions later!_
     * **Android Build Support** – _this includes modules needed to develop XR experiences for Android-based platforms (e.g. Quest 3, Quest Pro)_
       - OpenJDK
