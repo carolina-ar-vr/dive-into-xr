@@ -43,20 +43,21 @@ Please make sure to complete the following steps ***before* the workshop begins*
 ## Workshop Outline
 Since this workshop only lasts for an hour, this will help gauge what we will spend our time on:
 1. [Dive into XR with Unity introductory slides](https://www.canva.com/design/DAF9onXCYgw/9DLdK4ZBMWq_j3zfLWbuTA/view?utm_content=DAF9onXCYgw&utm_campaign=designshare&utm_medium=link&utm_source=editor) – 10 minutes
-   - Ensure everyone has their development environment setup
-   - What is C# scripting?
-2. Follow along in Unity – 40
-   - Setup new project
-   - Basics of Unity layout
-   - Navigating in the scene
-   - Adding our assets
-   - Particle effects? _(add more info)_
-   - Adding interactions _(Unity components vs. custom scripts)_
-   - Testing _(add more info about device emulator in Unity)_
-   - Build and Run
-3. Test in VR _(Quest 2, 3, and Pro)_– 10 minutes
+   - Introduction (3D Graphics + Game Engines)
+   - Verify your development environment setup (**Unity**, **Visual Studio**, **Repository**)
+   - Unity Hub Basics
+   - Unity Programming Basics (**C# Scripting** + components)
+2. Follow along in Unity – 40 minutes
+   - Unity Project Setup + Version Control
+   - Basics of Unity Editor
+   - Navigating in a 3D scene
+   - Adding assets
+   - C# Script + Components _(swarm fish movement)_
+   - Particle Effects _(bubbles)_
+   - Testing _(more info about device emulator in Unity after the workshop)_
+3. Experience XR _(Quest 2, 3, and Pro)_– 10 minutes
    - USB connection to development devices -> **Build and Run**
-   - Navigate to **Unknown Sources** on Meta Quest -> run app
+   - Navigate to **Unknown Sources** on Meta Quest -> run .apk app
 4. Next Steps & Upcoming Events – 5 minutes
    - Join the Carolina AR/VR Discord for more guidance and inspiration!
    - Post-workshop resources
@@ -69,3 +70,4 @@ Since this workshop only lasts for an hour, this will help gauge what we will sp
 
 ### Contact Information
 * Ashley Neall – aneall@unc.edu
+* Arryn O'Brien – arrynco@unc.edu
