@@ -30,9 +30,9 @@ Please make sure to complete the following steps ***before* the workshop begins*
 4. Make a new directory _(i.e. folder)_ called **Unity Projects** somewhere locally on your device where you can find it.
 
 ### Asset Setup
-1. Download the [Scuba Diving FBX 3D Model](https://drive.google.com/file/d/1EQMjcjfbxa9RuM8i69xwxL5xSSQ-gdTU/view?usp=drive_link)
+1. Download the [Scuba Diving FBX 3D Model](https://drive.google.com/file/d/1eL_0-bGuPVycJXKUwPYcmv261f-wpAHU/view?usp=sharing)
 2. Download the [Underwater Skybox JPEG Image](https://drive.google.com/file/d/1isEe6SkgC_9Mxhk7Vd2-0688MWpNApuI/view?usp=sharing)
-3. Download the [Ambient Underwater WAV Audio](https://drive.google.com/file/d/1HQQoTkU3Exndjyvla9tmJNw3v0Lyuzkv/view?usp=sharing)
+3. Download the [Ambient Underwater WAV Audio]([https://drive.google.com/file/d/1HQQoTkU3Exndjyvla9tmJNw3v0Lyuzkv/view?usp=sharing](https://drive.google.com/file/d/1Ycyjoh1jhDJ3UyWCHBOzpSnOlVmAdrfE/view?usp=sharing))
 4. Make a new directory _(i.e. folder)_ called **XR Assets** somewhere locally on your device where you can find it.
    - Make 3 new subdirectory _(i.e. folders within **XR Assets**_) and call them the following:
      - **3D Models**
