@@ -22,8 +22,8 @@ Please make sure to complete the following steps ***before* the workshop begins*
    * When selecting the modules to install along with the Editor, make sure to also check off the following modules:
      * **Visual Studio** – _this is for your IDE, so that you can program interactions later!_
      * **Android Build Support** – _this includes modules needed to develop XR experiences for Android-based platforms (e.g. Quest 3, Quest Pro)_
-      - OpenJDK
-      - Android SDK & NDK Tools
+       - OpenJDK
+       - Android SDK & NDK Tools
     * _Feel free to add additional modules, though we will only need the ones listed above for the purposes of building for Meta Quest platforms_.
   <img width="1446" alt="Screenshot 2024-03-05 at 12 16 15 PM" src="https://github.com/carolina-ar-vr/dive-into-xr/assets/111532673/bc958eea-97ec-437c-b4bf-aab06d1c16fb">
   <img width="1022" alt="image" src="https://github.com/carolina-ar-vr/dive-into-xr/assets/111532673/f7ebbbb1-1b41-4282-bf48-c9416a00251d">
