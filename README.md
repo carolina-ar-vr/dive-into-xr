@@ -32,26 +32,14 @@ Please make sure to complete the following steps ***before* the workshop begins*
 4. Make a new directory _(i.e. folder)_ called **Unity Projects** somewhere locally on your device where you can find it.
 
 ### Asset Setup
-1. Download the following 3D models:
-   - [Fish](add link)
-   - [Whale](https://github.com/carolina-ar-vr/dive-into-xr/blob/main/underwater-assets/whale.fbx)
-   - [Treasure Chest](https://github.com/carolina-ar-vr/dive-into-xr/blob/main/underwater-assets/treasure-chest.fbx)
-   - [Seaweed](add link)
-   - _Add other assets here!_
-2. Download the following image textures:
-   - _[Ocean floor](add link)
-   - [Sand](add link)
-   - _Add other assets here!_
-3. Download the following sound effects:
-   - _[Water](add link)
-   - [Splash](add link)
-   - _Add other assets here!_
+1. Download the [ScubaDive FBX 3D Model](https://drive.google.com/file/d/1EQMjcjfbxa9RuM8i69xwxL5xSSQ-gdTU/view?usp=drive_link)
+2. Download the [Underwater Skybox JPEG Image](https://drive.google.com/file/d/1isEe6SkgC_9Mxhk7Vd2-0688MWpNApuI/view?usp=sharing)
+3. Download the [Ambient Underwater WAV Audio]([add link](https://drive.google.com/file/d/1HQQoTkU3Exndjyvla9tmJNw3v0Lyuzkv/view?usp=sharing)
 4. Make a new directory _(i.e. folder)_ called **XR Assets** somewhere locally on your device where you can find it.
    - Make 3 new subdirectory _(i.e. folders within **XR Assets**_) and call them the following:
      - **3D Models**
      - **Textures**
      - **Sound Effects**
-
 
 ## Workshop Outline
 Since this workshop only lasts for an hour, this will help gauge what we will spend our time on:
