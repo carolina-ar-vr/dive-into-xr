@@ -64,7 +64,9 @@ Since this workshop only lasts for an hour, this will help gauge what we will sp
 
 ## Post-Workshop Feedback and Resources
 * Finalized repository w/ Unity Project (will post after the workshop)
+ * [Here is a link to the finalized repository](https://github.com/carolina-ar-vr/Dive-into-XR-with-Unity)
 * Post-workshop resources (will post after the workshop)
+ * [Here are some instructions for the workshop, if you weren't able to make it, which also has some additional videos and resources.](https://docs.google.com/document/d/1htc7PcKzpy8PsphPFzMZvZ_T7SEPiUXMEaIpFmQpWuM/edit?usp=sharing)
 * At the conclusion of this workshop, we encourage students to read the extra slides and explore linked resources as they ideate XR projects to work on this semester and in future semesters :) Feel free to reach out to me with any questions, and if this workshop has sparked an interest in XR and graphics, consider [joining Carolina AR/VR](https://linktr.ee/carvr)!
 
 ### Contact Information
